@@ -3,7 +3,7 @@
     "lang": "Portuguese",
     "name": "InfoWeb - Página Inicial",
     "short_name": "InfoWeb",
-    "scope": "/Site-PWA---Jo-o-Pedro-Campeiro/",
+    "scope": "./?",
     "display": "fullscreen",
     "start_url": "https://joao-pedro810.github.io/Site-PWA---Jo-o-Pedro-Campeiro/",
     "background_color": "#1c202c",
